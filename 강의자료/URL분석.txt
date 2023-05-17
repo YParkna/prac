@@ -1,0 +1,13 @@
+URL 분석
+
+프로토콜://(서버) ip주소,도메인:포트/경로/파일?파라미터
+     1		    2	   3     4     5 	6
+http
+https(보안)
+ftp
+
+http://naver.com:80/home/test/index.html?name=a&age
+  1	2        3	      4	      5	          6
+
+요청 request
+응답 response
